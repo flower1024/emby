@@ -19,3 +19,4 @@ emby mediaserver
         devices:
             - /dev/dri:/dev/dri
 ```
+v1
